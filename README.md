@@ -32,7 +32,7 @@ These projects highlight my ability to deliver end-to-end data analytics and mac
 
 | Project Repository | Software Focus | Key Technologies | Description |
 |------------------|---------------|------------------|------------|
-| [Financial-Analytics-Dashboard](https://github.com/YOUR_USERNAME/Financial-Market-Analytics-Dashboard) | Data Visualization & Dashboarding | `Power BI`, `Python`, `Pandas` | Built an interactive financial analytics dashboard to track market trends and support data-driven decision-making through visual insights. |
+| Healthcare-Management-System(https://github.com/YOUR_USERNAME/Financial-Market-Analytics-Dashboard) | Data Visualization & Dashboarding | `Power BI`, `Python`, `Pandas` | Built an interactive financial analytics dashboard to track market trends and support data-driven decision-making through visual insights. |
 | [Stock-Market-Analysis](https://github.com/YOUR_USERNAME/Stock-Market-Analysis) | Data Analysis | `Python`, `Pandas`, `Matplotlib` | Analyzed stock market datasets to identify patterns and trends, creating visualizations for better understanding of market performance. |
 | [Stroke-Risk-Analytics](https://github.com/YOUR_USERNAME/Stroke-Risk-Analytics) | Healthcare Analytics | `R`, `Python`, `Statistical Modeling` | Performed data analysis to identify key risk factors for stroke, applying statistical techniques to support healthcare insights. |
 | [Chronic-Disease-Analysis](https://github.com/YOUR_USERNAME/Understanding-Chronic-Disease-in-the-U.S.) | Exploratory Data Analysis | `Python`, `Pandas`, `Visualization` | Explored chronic disease datasets to uncover trends and patterns, supporting public health analysis through data-driven insights. |
