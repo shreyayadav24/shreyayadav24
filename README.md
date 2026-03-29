@@ -34,8 +34,6 @@ These projects highlight my ability to deliver end-to-end data analytics and mac
 |------------------|---------------|------------------|------------|
 | [Healthcare-Management-System](https://github.com/shreyayadav24/Healthcare-Management-System.git) | Data Visualization & Dashboarding | `Power BI`, `Python`, `Pandas` | Developed a healthcare data analytics system to analyze patient records, appointment trends, and doctor workloads. Built interactive visualizations and dashboards using Python to generate actionable insights and support data-driven decision-making. |
 | [Smart-Attendance-System](https://github.com/shreyayadav24/Smart-Attendance-System) | Computer Vision & Data Analytics | `Python`, `OpenCV`, `Pandas`, `Matplotlib` | Developed a real-time face detection and attendance tracking system that logs user presence with timestamps and generates analytical insights through data visualization. |
-| [Stroke-Risk-Analytics](https://github.com/YOUR_USERNAME/Stroke-Risk-Analytics) | Healthcare Analytics | `R`, `Python`, `Statistical Modeling` | Performed data analysis to identify key risk factors for stroke, applying statistical techniques to support healthcare insights. |
-| [Chronic-Disease-Analysis](https://github.com/YOUR_USERNAME/Understanding-Chronic-Disease-in-the-U.S.) | Exploratory Data Analysis | `Python`, `Pandas`, `Visualization` | Explored chronic disease datasets to uncover trends and patterns, supporting public health analysis through data-driven insights. |
 
 ---
 
